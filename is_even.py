@@ -1,0 +1,1 @@
+EvenNumber = type("EvenNumberSingleton", (int,), {'__instancecheck__': lambda self, obj: not obj % (self.__class__(hasattr(self.__class__, '__instancecheck__')) + self.__class__(hasattr(self.__class__, '__module__')))})()
