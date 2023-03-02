@@ -1,10 +1,10 @@
 # is_even
 Check if a number is divisable by 2
 
--  :poop: blazingly slow
+-  :turtle: blazingly slow
 -  :vomiting_face: uses lambda functions
 -  :disguised_face: unreadable
--  :skull_and_crossbones: poor documantation
+-  :poop: poor documantation
 ## Usage
 ```python
 from is_even import EvenNumber
